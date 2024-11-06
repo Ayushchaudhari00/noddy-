@@ -1,2 +1,2 @@
 # noddy-
-author- ayush chaudahri
+author- ayush (noddy)
